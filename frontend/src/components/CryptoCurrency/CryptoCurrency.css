@@ -1,0 +1,24 @@
+
+
+
+@media screen and (max-width:374px){
+    img{
+        width: 30px;
+    }
+    .table tbody .d-flex span{
+        font-size: 13px;
+    }
+    .table tbody p{
+        font-size: 10px;
+    }
+}
+
+@media screen and (min-width:374px){
+    img {
+        width: 40px;
+        height: 40px;
+      }
+      
+    
+}
+
